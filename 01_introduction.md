@@ -68,3 +68,37 @@ Outputs: test plan, test cases, test data, environment config, test reports.
 
      1. Tests: satisfies business requirements; done by customer or product owner.
      2. Example: client validates checkout workflow on e-commerce site.
+
+**Testing Types (what kind of tests)**
+
+1. Functional Testing — verifies features against specs (unit, integration, E2E).
+2. Non-Functional Testing — performance, load, security, usability, accessibility.
+3. Regression Testing — re-check previously working functionality after changes.
+4. Smoke Testing — quick verification of critical flows after a build.
+5. Sanity Testing — quick check of specific functionality after changes.
+6. Exploratory Testing — unscripted testing to discover unknown issues.
+7. API Testing — validate API contracts, error handling, and data correctness.
+8. Performance & Load Testing — JMeter, k6 to measure speed and scalability.
+9. Security Testing — OWASP guidelines, penetration testing.
+
+**Test Design Techniques (how to write good test cases)**
+
+**Black-box techniques**
+
+1. Equivalence Partitioning (EP): group inputs into classes expected to behave similarly.
+
+     * Example: password length valid range 8–16 → partitions: <8, 8-16, >16
+
+2. Boundary Value Analysis (BVA): test at the edges of partitions.
+
+     * Example: test lengths 7, 8, 16, 17.
+
+3. Decision Table Testing: use for combinations of inputs / business rules.
+
+4. State Transition Testing: for systems with states (e.g., ATM: Idle → CardInserted → Authenticated).
+
+5. Use Case / Scenario Testing: follow realistic end-to-end user journeys.
+
+**White-box techniques**
+
+1. Statement/branch/path coverage, unit-level assertions, mutation testing (advanced).
