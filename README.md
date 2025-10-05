@@ -75,3 +75,6 @@ It’s suitable for:
 
 ## 📌 License
 This project is for **educational purposes only** and can be freely used for learning and practice.
+
+---
+
