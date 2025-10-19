@@ -17,7 +17,17 @@ It is designed to help beginners, QA engineers, and professionals understand the
 - **08_agile_testing.md** → Agile testing principles, Scrum, CI/CD testing  
 - **09_interview_questions.md** → Commonly asked QA/testing interview questions  
 - **10_test_scenarios_vs_test_cases.md** → Differences, structure, and examples of test scenarios vs. test cases  
-- **11_test_plan_vs_test_strategy.md** → Distinction, purpose, and documentation examples for test plan vs. strategy  
+- **11_test_plan_vs_test_strategy.md** → Distinction, purpose, and documentation examples for test plan vs. strategy
+- **12_test_levels_in_software_testing.md → Defining the levels in software testing
+- **13_test_types_in_software_testing.md
+- **14_static_vs_dynamic_testing.md
+- **15. White Box Testing vs Black Box Testing.md
+- **16. Regression-Testing-and-Maintenance-Testing.md
+- **17_risk_based_testing_and_prioritization.md
+- **18_performance_and_load_testing.md
+- **19_security_testing.md
+- **20_usability_and_accessibility_testing.md
+
 
 ---
 
