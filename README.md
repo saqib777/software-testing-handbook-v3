@@ -4,7 +4,6 @@
 <p align="center">
 A complete, structured, and practical handbook for Software Testers, QA Engineers, and SDETs — version 3 brings improved clarity, coverage, and organization.
 </p>
----
 
 ## Table of Contents
 
