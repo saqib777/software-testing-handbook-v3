@@ -1,7 +1,9 @@
-# Software Testing Handbook v3
 
-A comprehensive and organized collection of software testing documentation — built to serve as a go-to handbook for testers, QA engineers, and SDETs. Each section covers one aspect of testing with clear, structured explanations.
+<h1 align="center"> Software Testing Handbook v3</h1>
 
+<p align="center">
+A complete, structured, and practical handbook for Software Testers, QA Engineers, and SDETs — version 3 brings improved clarity, coverage, and organization.
+</p>
 ---
 
 ## Table of Contents
